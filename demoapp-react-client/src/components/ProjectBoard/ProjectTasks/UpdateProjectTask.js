@@ -16,7 +16,7 @@ class UpdateProjectTask extends Component {
             summary: "",
             acceptanceCriteria: "",
             status: "",
-            priority: 0,
+            priority: "",
             dueDate: "",
             projectIdentifier: "",
             create_At: "",
